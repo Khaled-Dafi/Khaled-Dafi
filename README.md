@@ -1,13 +1,13 @@
 ![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@3960w.png)
 <h1 align="center">Hi 👋, I'm Khaled Dafi</h1>
-<h3 align="center">I'm a computer science student experienced in backend and frontend development, enterprise networks, and security.</h3>
+<h3 align="center">I'm a computer science fresh graduate experienced in backend and frontend development, enterprise networks, and security.</h3>
 <img align="right" alt="Coding" width="400" src="https://appdevelopermagazine.com/images/news_images/All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-dafi&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-dafi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khaled_dafi" target="blank"><img src="https://img.shields.io/twitter/follow/khaled_dafi?logo=twitter&style=for-the-badge" alt="khaled_dafi" /></a> </p>
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working on **Web Projects**
 
 - 🌱 I’m currently learning **AI, and machine learning**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **devolving a cybersecurity tools**
 
-- 📫 How to reach me **khaleddafi909@gmail.com**
+- 📫 How to reach me **khaleddafi@outlook.com**
 
 - ⚡ Fun fact **Only creative people can see beauty in chaos**
 
