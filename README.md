@@ -1,6 +1,6 @@
 ![MasterHead](https://www.git-tower.com/blog/assets/img/default-post-header@3960w.png)
 <h1 align="center">Hi 👋, I'm Khaled Dafi</h1>
-<h3 align="center">I'm a computer science fresh graduate experienced in backend and frontend development, enterprise networks, and security.</h3>
+<h3 align="center">I'm a computer science fresh graduate experienced in backend and frontend development, enterprise networks, and Cypersecurity.</h3>
 <img align="right" alt="Coding" width="400" src="https://appdevelopermagazine.com/images/news_images/All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-dafi&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-dafi" /> </p>
